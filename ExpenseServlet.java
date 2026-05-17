@@ -1,0 +1,1 @@
+package model; public class Budget{public double limit; public Budget(double l){limit=l;} }

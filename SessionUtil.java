@@ -1,0 +1,1 @@
+package model; public class Subscription{public String name; public double cost; public Subscription(String n,double c){name=n;cost=c;} }

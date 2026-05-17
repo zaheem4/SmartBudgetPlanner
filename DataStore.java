@@ -1,0 +1,1 @@
+package model; public class SavingsGoal{public double target; public SavingsGoal(double t){target=t;} }

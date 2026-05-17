@@ -1,0 +1,1 @@
+package model; public class Expense{public String category; public double amount; public Expense(String c,double a){category=c;amount=a;} }

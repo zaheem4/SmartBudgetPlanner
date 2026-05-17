@@ -1,0 +1,1 @@
+package model; public class Income{public String source; public double amount; public Income(String s,double a){source=s;amount=a;} }
